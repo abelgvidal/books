@@ -9,9 +9,9 @@ Designing for the first derivative (ratio of change):
 - **Fear**: how confident is the team to make changes impacts the speed of change
 
 An architect has three main attributes:
-- skills: has tools and knows the drill
-- impact: rational and disciplined decision taking
-- leadership: sharing of knowledge, be known, giving a talk, writing a paper
+- **skills**: has tools and knows the drill
+- **impact**: rational and disciplined decision taking
+- **leadership**: sharing of knowledge, be known, giving a talk, writing a paper
 
 For **making decisions** is important to be disciplined. Avoid: 
 - the **law of small numbers**, as we tend to extract conclusions from non representative sets of data.
